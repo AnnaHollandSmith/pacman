@@ -79,11 +79,11 @@ body {
 	font-weight: normal;
 	letter-spacing: 2px;
 	font-size: 20px;
-	color: #fff200;
+	color: #ffe066;
 	text-align: center;
 }
 #message.red { 
-	color: red;
+	color: #ff794d;
 }
 
 span.combo, span.fruits { 
